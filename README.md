@@ -1,2 +1,2 @@
 # React_course_Youtube_browser
-A Youtube browser
+Aplicación que realiza búsquedas de videos - Correspondiente al curso de "Modern React with Redux - Udemy".
